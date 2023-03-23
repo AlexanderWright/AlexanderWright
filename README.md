@@ -5,11 +5,10 @@
 - 🌱 I’m currently learning ...
 
   Laravel Livewire
-- 💞️ I’m looking for paid employment!
 
 - 📫 How to reach me ...
 
-Email: alexander@silverfish-design.co.uk
+Email: alexander@alexanderwright.dev
 
 <!---
 AlexanderWright/AlexanderWright is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
