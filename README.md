@@ -4,12 +4,12 @@
   Technology, specifically software development, especially web applications written in PHP using Laravel.
 - 🌱 I’m currently learning ...
 
-  Laravel, Livewire, Tailwind.
+  Laravel, Livewire, Tailwind, Eleventy.
 
 - 📫 How to reach me ...
 
 Email: alexander@alexanderwright.dev
-Work: alexander.wright@camra.org.uk
+Website: [alexanderwright.dev](https://alexanderwright.dev).
 
 <!---
 AlexanderWright/AlexanderWright is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
